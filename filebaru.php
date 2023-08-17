@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Coba Gaess</h1>
-    <h1>Coba Gaess</h1>
+    <h1>Ini Satu</h1>
+    <h1>Ini Dua</h1>
     
     <h1>Coba Gaess</h1>
     <h1>Coba Gaess</h1>
